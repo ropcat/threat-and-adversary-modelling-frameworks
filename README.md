@@ -1,7 +1,5 @@
 # Threat and Adversary Behaviour Modelling Frameworks for Protective Security, Protective Intelligence, and Threat Intelligence
 
-# Threat and Adversary Behaviour Modelling Frameworks for Protective Security, Protective Intelligence, and Threat Intelligence
-
 ## Cyber
 - MITRE ATT&CK Enterprise - https://attack.mitre.org/tactics/enterprise/
 - MITRE ATT&CK Mobile - https://attack.mitre.org/matrices/mobile/
