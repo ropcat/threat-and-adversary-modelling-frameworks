@@ -23,7 +23,7 @@ None public at time of writing.
 
 ## Cross-domain
 
-### Privacy, OPSEC and OSINT
+### Privacy & OPSEC
 - LINDDUN - https://linddun.org/threat-trees/
 - PANOPTIC - https://ptmworkshop.gitlab.io/#/panoptic
 - Meta Adversarial Privacy Framework - https://github.com/facebookresearch/privacy_adversarial_framework
